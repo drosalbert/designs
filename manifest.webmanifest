@@ -1,0 +1,19 @@
+{
+  "name": "Trip Log",
+  "short_name": "Trips",
+  "description": "Log car trips with date, locations, and distance.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1322",
+  "theme_color": "#0b5fff",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
