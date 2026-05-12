@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Harmonie 43 — Mist / Zicht (scrollable)</title>
+<style>
+  :root {
+    --bg: #0e1116;
+    --panel: #161b22;
+    --panel2: #1f242c;
+    --border: #2a313c;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --accent2: #79c0ff;
+    --warn: #f0883e;
+    --err: #f85149;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text);
+               font: 14px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ===== Top bar ===== */
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--panel); border-bottom: 1px solid var(--border);
+    padding: 10px 16px;
+    display: grid;
+    grid-template-columns: auto 1fr auto auto auto auto;
+    gap: 10px; align-items: center;
+  }
+  header h1 { margin: 0; font-size: 15px; font-weight: 600; color: var(--text); white-space: nowrap; }
+  header h1 small { color: var(--muted); font-weight: 400; margin-left: 6px; }
+  header label { color: var(--muted); font-size: 12px; margin-right: 4px; }
+  header select, header input, header button {
+    background: var(--panel2); color: var(--text);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 6px 10px; font: inherit;
+  }
+  header input[type=text] { width: 100%; min-width: 200px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; }
+  header button { cursor: pointer; }
+  header button:hover { border-color: var(--accent); color: var(--accent2); }
+
+  /* ===== Layout ===== */
+  main {
+    display: grid;
+    grid-template-columns: 1fr 96px;
+    height: calc(100vh - 53px);
+  }
+  #frames {
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    padding: 16px 16px 50vh 16px;
+  }
+  #frames::-webkit-scrollbar { width: 14px; }
+  #frames::-webkit-scrollbar-track { background: var(--panel); }
+  #frames::-webkit-scrollbar-thumb { background: var(--border); border-radius: 7px; }
+  #frames::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+  .frame {
+    margin: 0 auto 24px auto;
+    max-width: 1100px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    scroll-margin-top: 70px;
+  }
+  .frame .hdr {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding: 10px 14px;
+    background: var(--panel2);
+    border-bottom: 1px solid var(--border);
+  }
+  .frame .hdr .left {
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .frame .hdr .left .hour { color: var(--accent2); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .frame .hdr .right { color: var(--muted); font-size: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .frame .imgwrap {
+    position: relative;
+    min-height: 240px;
+    background: #0a0d12;
+    display: flex; justify-content: center; align-items: center;
+  }
+  .frame img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  .frame .status {
+    position: absolute;
+    color: var(--muted);
+    font-size: 13px;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  .frame.error .status { color: var(--err); }
+  .frame.error .imgwrap { min-height: 120px; }
+
+  /* ===== Right rail timeline ===== */
+  aside {
+    border-left: 1px solid var(--border);
+    background: var(--panel);
+    overflow-y: auto;
+    padding: 8px 0;
+  }
+  aside::-webkit-scrollbar { width: 8px; }
+  aside::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+  aside .tick {
+    display: block; width: 100%;
+    padding: 4px 10px;
+    color: var(--muted); font-size: 11px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    text-align: right;
+    background: none; border: none;
+    cursor: pointer;
+  }
+  aside .tick:hover { color: var(--accent); background: var(--panel2); }
+  aside .tick.current { color: var(--accent2); font-weight: 700; background: var(--panel2); border-left: 2px solid var(--accent); }
+  aside .tick .h { color: var(--text); }
+
+  /* ===== Help footer ===== */
+  .help {
+    position: fixed; bottom: 0; left: 0; right: 96px;
+    background: rgba(22,27,34,.95); border-top: 1px solid var(--border);
+    padding: 6px 16px; font-size: 11px; color: var(--muted);
+    display: flex; gap: 16px; align-items: center;
+  }
+  .help kbd { background: var(--panel2); border: 1px solid var(--border);
+              border-radius: 4px; padding: 1px 6px; font-family: ui-monospace, monospace;
+              color: var(--text); font-size: 10px; }
+  .help .spacer { flex: 1; }
+
+  @media (max-width: 720px) {
+    header { grid-template-columns: 1fr 1fr; }
+    header h1 { grid-column: 1 / -1; }
+    main { grid-template-columns: 1fr; }
+    aside { display: none; }
+    .help { right: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Harmonie 43 <small>mist / zicht</small></h1>
+  <input id="tpl" type="text" spellcheck="false"
+         title="URL-template. Gebruik {hh} voor 2-cijferig uurnummer, {h} voor 1-cijferig, {HH} voor 3-cijferig." />
+  <select id="preset" title="Kies een publieke bron">
+    <option value="">— preset kiezen —</option>
+  </select>
+  <select id="param" title="Parameter">
+    <option value="zicht">Zicht</option>
+    <option value="mist">Mist</option>
+  </select>
+  <select id="horizon" title="Maximale voorspeluur">
+    <option value="24">+24 u</option>
+    <option value="36">+36 u</option>
+    <option value="48" selected>+48 u (max Harmonie 43)</option>
+    <option value="60">+60 u</option>
+  </select>
+  <button id="reload" title="Herlaad alle frames (cache-buster)">↻</button>
+</header>
+
+<main>
+  <div id="frames"></div>
+  <aside id="rail"></aside>
+</main>
+
+<div class="help">
+  <span><kbd>↑</kbd>/<kbd>↓</kbd> of <kbd>j</kbd>/<kbd>k</kbd> volgend uur</span>
+  <span><kbd>PgUp</kbd>/<kbd>PgDn</kbd> ±6 u</span>
+  <span><kbd>Home</kbd>/<kbd>End</kbd> begin/eind</span>
+  <span class="spacer"></span>
+  <span id="status"></span>
+</div>
+
+<script>
+"use strict";
+
+/* ------------------------------------------------------------------
+ *  Preset URL-templates voor Harmonie 43 mist/zicht.
+ *  {hh} = voorspeluur 2 cijfers (00..60), {h} = 1 cijfer, {HH} = 3 cijfers.
+ *  {param} = "zicht" of "mist".
+ *  Als een preset niet werkt: open een werkende afbeelding op de site,
+ *  kopieer de URL en plak hier — vervang het uurgetal door {hh}.
+ * ------------------------------------------------------------------ */
+const PRESETS = [
+  {
+    name: "Weerplaza · Harmonie · {param}",
+    tpl:  "https://oud.weerplaza.nl/gdata/HA40/HA40_{param}_{hh}.png",
+  },
+  {
+    name: "Weerlive · Harmonie · {param}",
+    tpl:  "https://weerlive.nl/img/harmonie/{param}/{hh}.png",
+  },
+  {
+    name: "Wouter van Bernebeek · Harmonie · {param}",
+    tpl:  "https://www.woutervanbernebeek.nl/weermodel/harmonie/{param}_{hh}.png",
+  },
+  {
+    name: "Regenthetin · Harmonie · {param}",
+    tpl:  "https://www.regenthetin.nl/wxmodel/harmonie/{param}/{hh}.png",
+  },
+];
+
+const $ = (id) => document.getElementById(id);
+const framesEl = $("frames");
+const railEl   = $("rail");
+const tplEl    = $("tpl");
+const presetEl = $("preset");
+const paramEl  = $("param");
+const horizonEl= $("horizon");
+const reloadEl = $("reload");
+const statusEl = $("status");
+
+/* Populate preset dropdown */
+PRESETS.forEach((p, i) => {
+  const opt = document.createElement("option");
+  opt.value = i;
+  opt.textContent = p.name;
+  presetEl.appendChild(opt);
+});
+
+/* Restore from URL hash / localStorage */
+function loadState() {
+  const params = new URLSearchParams(location.hash.slice(1));
+  const def = {
+    tpl:     params.get("tpl")     || localStorage.getItem("h43.tpl")     || PRESETS[0].tpl,
+    param:   params.get("param")   || localStorage.getItem("h43.param")   || "zicht",
+    horizon: params.get("horizon") || localStorage.getItem("h43.horizon") || "48",
+  };
+  tplEl.value     = def.tpl;
+  paramEl.value   = def.param;
+  horizonEl.value = def.horizon;
+}
+function saveState() {
+  localStorage.setItem("h43.tpl", tplEl.value);
+  localStorage.setItem("h43.param", paramEl.value);
+  localStorage.setItem("h43.horizon", horizonEl.value);
+  const params = new URLSearchParams({
+    tpl: tplEl.value, param: paramEl.value, horizon: horizonEl.value,
+  });
+  history.replaceState(null, "", "#" + params.toString());
+}
+
+/* URL substitution */
+function buildUrl(tpl, param, hour, cacheBust) {
+  let url = tpl
+    .replaceAll("{param}", param)
+    .replaceAll("{PARAM}", param.toUpperCase())
+    .replaceAll("{hh}",  String(hour).padStart(2, "0"))
+    .replaceAll("{HH}",  String(hour).padStart(3, "0"))
+    .replaceAll("{h}",   String(hour));
+  if (cacheBust) {
+    url += (url.includes("?") ? "&" : "?") + "_=" + cacheBust;
+  }
+  return url;
+}
+
+/* Time math */
+function pad(n) { return String(n).padStart(2, "0"); }
+function fmtClock(d) { return pad(d.getHours()) + ":" + pad(d.getMinutes()); }
+function fmtDate(d) {
+  const days = ["zo","ma","di","wo","do","vr","za"];
+  return days[d.getDay()] + " " + pad(d.getDate()) + "/" + pad(d.getMonth()+1);
+}
+
+/* Render */
+let cacheBust = 0;
+function render() {
+  saveState();
+  framesEl.innerHTML = "";
+  railEl.innerHTML = "";
+  const horizon = parseInt(horizonEl.value, 10);
+  const param   = paramEl.value;
+  const tpl     = tplEl.value.trim();
+  const now     = new Date();
+  // Round down to the most recent whole hour as the run-start reference
+  const t0 = new Date(now);
+  t0.setMinutes(0, 0, 0);
+
+  let loaded = 0, failed = 0, pending = horizon + 1;
+  function bumpStatus() {
+    statusEl.textContent = `${loaded} geladen · ${failed} mislukt · ${pending} bezig`;
+  }
+  bumpStatus();
+
+  for (let h = 0; h <= horizon; h++) {
+    const ft = new Date(t0.getTime() + h * 3600_000);
+    const url = buildUrl(tpl, param, h, cacheBust || null);
+
+    const frame = document.createElement("section");
+    frame.className = "frame";
+    frame.id = "h" + h;
+    frame.innerHTML = `
+      <div class="hdr">
+        <div class="left">
+          <span class="hour">+${pad(h)} u</span>
+          &nbsp;·&nbsp; ${fmtDate(ft)} ${fmtClock(ft)}
+        </div>
+        <div class="right" title="${url}">${param}</div>
+      </div>
+      <div class="imgwrap">
+        <div class="status">laden…</div>
+      </div>`;
+    framesEl.appendChild(frame);
+
+    const wrap = frame.querySelector(".imgwrap");
+    const img = new Image();
+    img.loading = "lazy";
+    img.decoding = "async";
+    img.referrerPolicy = "no-referrer";
+    img.alt = `Harmonie 43 ${param} +${h}u`;
+    img.onload = () => {
+      wrap.innerHTML = "";
+      wrap.appendChild(img);
+      loaded++; pending--; bumpStatus();
+    };
+    img.onerror = () => {
+      frame.classList.add("error");
+      wrap.querySelector(".status").innerHTML =
+        `kon niet laden &nbsp;·&nbsp;
+         <a href="${url}" target="_blank" rel="noopener">URL openen</a>`;
+      failed++; pending--; bumpStatus();
+    };
+    img.src = url;
+
+    // Rail tick
+    const btn = document.createElement("button");
+    btn.className = "tick";
+    btn.dataset.hour = String(h);
+    btn.innerHTML = `<span class="h">+${pad(h)}u</span> · ${fmtClock(ft)}`;
+    btn.addEventListener("click", () => jumpTo(h));
+    railEl.appendChild(btn);
+  }
+
+  updateRail();
+}
+
+function jumpTo(h) {
+  const el = $("h" + h);
+  if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+/* Highlight current frame in the rail while scrolling */
+let currentHour = 0;
+function updateRail() {
+  const buttons = railEl.querySelectorAll(".tick");
+  buttons.forEach(b => {
+    b.classList.toggle("current", parseInt(b.dataset.hour, 10) === currentHour);
+  });
+  const cur = railEl.querySelector(".tick.current");
+  if (cur) cur.scrollIntoView({ block: "nearest" });
+}
+
+framesEl.addEventListener("scroll", () => {
+  const top = framesEl.scrollTop + 80;
+  const sections = framesEl.querySelectorAll(".frame");
+  for (const s of sections) {
+    if (s.offsetTop + s.offsetHeight > top) {
+      const h = parseInt(s.id.slice(1), 10);
+      if (h !== currentHour) { currentHour = h; updateRail(); }
+      break;
+    }
+  }
+});
+
+/* Keyboard navigation */
+document.addEventListener("keydown", (e) => {
+  if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
+  const horizon = parseInt(horizonEl.value, 10);
+  let h = currentHour;
+  switch (e.key) {
+    case "ArrowDown": case "j": h = Math.min(horizon, h + 1); break;
+    case "ArrowUp":   case "k": h = Math.max(0, h - 1); break;
+    case "PageDown":            h = Math.min(horizon, h + 6); break;
+    case "PageUp":              h = Math.max(0, h - 6); break;
+    case "Home":                h = 0; break;
+    case "End":                 h = horizon; break;
+    default: return;
+  }
+  e.preventDefault();
+  jumpTo(h);
+});
+
+/* Wiring */
+presetEl.addEventListener("change", () => {
+  const i = parseInt(presetEl.value, 10);
+  if (!Number.isNaN(i) && PRESETS[i]) {
+    tplEl.value = PRESETS[i].tpl;
+    render();
+  }
+});
+paramEl.addEventListener("change", render);
+horizonEl.addEventListener("change", render);
+tplEl.addEventListener("change", render);
+reloadEl.addEventListener("click", () => { cacheBust = Date.now(); render(); });
+
+loadState();
+render();
+</script>
+</body>
+</html>
