@@ -1,0 +1,217 @@
+# Hidden long-distance Mount Fuji viewpoints (telephoto, ~30-110 km): Nagano, Kofu basin / Southern Alps side, Minobu, Okutama, Boso (Chiba), Tokyo/Yokohama
+
+Research date: 20 Nov 2026. Method caveats that the writer MUST know:
+- Only web *search* was available; direct page fetches of Japanese official sites (city.shiojiri.lg.jp, tokimeguri.jp, nirasaki-kankou.jp, city.futtsu.lg.jp, etc.) were blocked by the sandbox network. All facts below come from search-result extracts of the cited pages, not from reading the full page. Treat exact prices/hours as "per source X" and re-check before publishing.
+- Distances and compass bearings to Fuji are MY OWN great-circle calculations from approximate coordinates (Fuji summit 35.3606 N, 138.7274 E). The GPS coordinates given per spot are approximate, from memory/map knowledge, NOT taken from a cited source — good to ~0.5 km, verify on a map before printing.
+- Focal lengths: only Takabotchi has a sourced figure. The others are my estimates derived from distance (Fuji's visible cone is ~20-25 km wide at the base; at 100 km it spans roughly 12-14 degrees, so it fills a frame at about 100-200 mm full-frame equivalent). Marked "(estimate)".
+
+---
+
+## Q1. Which spots are worthwhile and uncrowded, and what does the shot look like?
+
+### Takeaway
+Nine spot-groups are worth keeping: Takabotchi (Nagano), Amariyama, Hottarakashi/Fruit Park, Shichimen-san + Minobu-san, Daibosatsu Kaminari-iwa, Kumotori, Futtsu Cape, the south-Boso coast (Kyonan/Haraoka/Tateyama), Kisarazu tidal flats/Nakanoshima bridge, plus the Tama River at Futako-Tamagawa as the urban angle. The genuinely quiet ones are Amariyama, Shichimen-san, Kumotori and the Boso coast; Takabotchi and Hottarakashi are "hidden" only for foreign visitors — both are famous among Japanese photographers / Yuru Camp fans and get busy at dawn on autumn weekends.
+
+### Cited Findings
+
+**Spot 1 — Takabotchi Kogen 高ボッチ高原 (Takabotchi-yama 1,665 m), Shiojiri, Nagano** — ~106 km NW of Fuji (my calc; approx 36.134 N, 138.038 E; Fuji bears ~144 deg, SSE)
+- The official pamphlet describes the view as "Mount Fuji seen across Lake Suwa from Takabotchi Kogen"; summit altitude 1,665 m, 360-degree view (Northern Alps, Lake Suwa, Southern Alps, Fuji). — [Shiojiri tourism pamphlet PDF](https://tokimeguri.jp/assets/file/pamphlet/pamphlet_takabotti.pdf); [GLTJP](https://www.gltjp.com/en/directory/item/19084/)
+- Sourced focal lengths: a photographer's blog shot the summit view at ~90 mm full-frame equivalent and the Fureai Hiroba (ふれあい広場) view at ~50 mm. So this is a short-telephoto composition: Lake Suwa + city lights in the lower half, Yatsugatake left, Southern Alps right, small Fuji in the gap on the horizon. — [fukeimeguri.com](https://www.fukeimeguri.com/blog/takabotchi-mt-fuji)
+- The summit is described as the best place for the Suwa city lights because car headlights do not reach it (good for night/time-lapse); the summit viewpoint is about 7-15 min on foot from the car parks (sources differ: "7 min" vs "15 min from parking lot No. 2 / nature conservation centre"). — [fukeimeguri.com](https://www.fukeimeguri.com/blog/takabotchi-mt-fuji); [select333.com](https://select333.com/takabotti-spot/)
+- Crowding: generally large car parks, but on autumn weekends and when a sea-of-clouds forecast circulates on social media the car parks start filling from midnight; the small ~15-car pull-in where you can shoot next to the car fills even when lots 1 and 2 are empty. Roadside parking near Fureai Hiroba, formerly tolerated, is now prohibited. — [select333.com](https://select333.com/takabotti-spot/); [fukeimeguri.com](https://www.fukeimeguri.com/blog/takabotchi-mt-fuji)
+- It is a Yuru Camp (ゆるキャン△) pilgrimage site, which adds visitors. — [japananimetour.com](https://japananimetour.com/seichi-jyunrei-naganomap01/)
+- No public transport; car only, ~30 min from Shiojiri IC. — [GLTJP](https://www.gltjp.com/en/directory/item/19084/)
+
+**Spot 2 — Amariyama 甘利山 (1,731 m), Nirasaki, Yamanashi** — ~48 km NW of Fuji (my calc; approx 35.688 N, 138.384 E; Fuji bears ~139 deg, SE)
+- About 150,000 Japanese azalea (レンゲツツジ) bushes bloom early to mid June; Fuji floating on a sea of clouds over the Kofu basin is the signature view when conditions align. — [Nirasaki tourism association](https://www.nirasaki-kankou.jp/kankou_spot/amariyama/3957.html); [Yamanashi tourism event page](https://www.yamanashi-kankou.jp/nirasaki/event/amariyama-rengetsutsuji.html)
+- Only ~30 min walk from the car park to the summit; ~60 min drive from Nirasaki IC (Chuo Expressway). — [Yamanashi tourism "21 meizan"](https://www.yamanashi-kankou.jp/special/21meizan/amariyama.html)
+- 2026 trip reports: azaleas in full bloom with Fuji visible on 1 June 2026; the hut warden called the weekend of 13-14 June 2026 the last of the peak. — [YAMAP report 1 Jun 2026](https://yamap.com/activities/48828530/article); [YAMAP report 14 Jun 2026](https://yamap.com/activities/49092435/article)
+- The municipal Amariyama Green Lodge (1,600 m, "campsite above the clouds", 50th anniversary) opened its 2026 season in late April — a way to be on the summit for dawn without a night drive. — [PR TIMES](https://prtimes.jp/main/html/rd/p/000000003.000129901.html)
+
+**Spot 3 — Hottarakashi Onsen ほったらかし温泉 and Fuefukigawa Fruit Park 笛吹川フルーツ公園, Yamanashi City** — ~40 km N of Fuji (my calc; approx 35.719 N, 138.699 E; Fuji bears ~176 deg, almost due south)
+- Hottarakashi is an open-air bath overlooking the Kofu basin with Fuji; the "sunrise bath" (ご来光入浴) is the famous use. — [nap-camp magazine](https://www.nap-camp.com/mag/spot/103367)
+- IMPORTANT for a photo guide: photography inside the facility is prohibited. Cameras/phones may not be taken into the bathing area; the official site notice reportedly reads "photography is prohibited inside the onsen facility" and many signs say not to bring cameras. So Hottarakashi is an experience, not a shooting position. — [fujiyamasan.com guide](https://fujiyamasan.com/hottarakashi/); [Tokyo Traveller blog](https://tokyo-traveller.hatenablog.com/entry/hottarakashi-onsen)
+- Crowding: many come for sunrise; one visitor reported 30+ minutes' wait to get into the men's bath; holiday crowding increased by anime pilgrims. — [4travel reviews](https://4travel.jp/dm_shisetsu/10603008?page=2); [fujiyamasan.com](https://fujiyamasan.com/hottarakashi/)
+- The photographable alternative is Fuefukigawa Fruit Park just below: one of the "New Three Great Night Views of Japan" (selected April 2003), Kofu-basin lights with Fuji straight ahead; classic composition from the road above with the two glass domes as foreground, or flowers at the upper "Hana no Hiroba". — [yakei.jp](https://yakei.jp/japan/spot.php?i=fruit); [pixpot.net](https://www.pixpot.net/view_spots/spot/1842/yamanashi-fuefukigawa-fruitpark)
+
+**Spot 4 — Shichimen-san 七面山 (Keishin-in 敬慎院, ~1,700 m) and Minobu-san 身延山 (1,153 m), Minobu / Hayakawa, Yamanashi** — ~34 km and ~30 km W of Fuji (my calc; Keishin-in approx 35.370 N, 138.353 E; Minobu summit approx 35.398 N, 138.405 E; Fuji bears ~92-98 deg, due east). Slightly closer than the 40 km brief, kept because it is the best sunrise Diamond Fuji in the country and almost unknown to foreign visitors.
+- Shichimen-san: Diamond Fuji (sun rising out of the summit) occurs around the spring and autumn equinoxes (20/21 March and 22/23 September); on the 2021 autumn equinox the sun aligned with the summit at 05:55. — [MLIT multilingual text database](https://www.mlit.go.jp/tagengo-db/common/001557413.pdf); [Yamanashi tourism feature](https://www.yamanashi-kankou.jp/special/2020_shichimensan2.html)
+- The viewpoint is in front of the Zuishin-mon gate (随身門) beside Keishin-in; the front approach (表参道) from Hagoromo (羽衣) is divided into 50 "cho" with stone markers and lanterns. — [Yamareco report](https://www.yamareco.com/modules/yamareco/detail-278488.html); [YAMAP mountain page](https://yamap.com/mountains/8268)
+- Minobu-san: the ropeway operator runs a "Diamond Fuji viewing event" twice a year with special pre-dawn ropeway departures to the summit's east observation deck. 2023 examples: 12-14 March (first car 05:30, sunrise ~06:25) and 30 Sept-2 Oct (first car 05:00, sunrise ~06:05; 41st edition). — [Travel Watch, March 2023](https://travel.watch.impress.co.jp/docs/news/1477820.html); [Travel Watch, autumn](https://travel.watch.impress.co.jp/docs/news/1436565.html)
+- The summit view takes in Fuji, Suruga Bay, Southern Alps and Yatsugatake. — [rurubu](https://rurubu.jp/andmore/spot/80018300)
+
+**Spot 5 — Daibosatsu-rei 大菩薩嶺, Kaminari-iwa 雷岩 (~2,040 m), Koshu, Yamanashi** — ~44 km NNE of Fuji (my calc; approx 35.748 N, 138.845 E; Fuji bears ~194 deg, SSW)
+- Kaminari-iwa, just below the (viewless) summit, is the photo point: Fuji with Lake Daibosatsu (the Kamihikawa dam reservoir) in front, the Kofu basin and the Southern Alps to the right. — [yamachizu.jp](https://yamachizu.jp/article/13103); [fujisan3776.jp viewpoint entry](https://fujisan3776.jp/tenbo/320/t0037.html)
+- Open grassy ridge walk between Daibosatsu-toge and Kaminari-iwa, described as beginner-friendly. — [yamahack](https://yamahack.com/657)
+
+**Spot 6 — Kumotori-yama 雲取山 (2,017 m), Tokyo/Saitama/Yamanashi border** — ~58 km NNE of Fuji (my calc; approx 35.856 N, 138.944 E; Fuji bears ~200 deg)
+- Views open up after Nanatsuishi-yama: Tanzawa to the SW, Fuji and the Southern Alps to the W along an open ridge. — [YAMAP report](https://yamap.com/activities/48780404/article)
+- Kamozawa route: allow 4-5 hours up; another report says 5+ hours one way and that a day trip is for strong walkers only; most people aiming at sunrise/night views sleep at Kumotori Sanso, ~30 min below the summit on the Saitama side. — [YAMAP report](https://yamap.com/activities/44683258/article); [YAMAP report May 2026](https://yamap.com/activities/48780404/article)
+
+**Spot 7 — Futtsu Cape 富津岬, Meiji Centennial Observation Tower 明治百年記念展望塔, Futtsu, Chiba** — ~96 km E of Fuji (my calc; approx 35.313 N, 139.786 E; Fuji bears ~273 deg, due west across Tokyo Bay)
+- The tower is shaped like a five-needle pine; top deck 21.8 m; Futtsu Park and the tower are free. Listed among MLIT's "100 Fuji views of Kanto". — [jimoharu.net tower guide](https://jimoharu.net/futtsu-misaki-tenbo-2026/); [chibatabinabi.jp](https://chibatabinabi.jp/?p=2345)
+- Fuji is clearest on crisp winter days; evening light is the draw. — [chibatabinabi.jp](https://chibatabinabi.jp/?p=2345); [ANA travel planner](https://www.ana.co.jp/ja/jp/japan-travel-planner/chiba/0000022.html)
+
+**Spot 8 — South Boso coast: Kyonan / Haraoka (Okamoto) pier 原岡桟橋 / Tateyama Hojo beach 北条海岸, Chiba** — ~103-110 km ESE of Fuji (my calc; Hojo beach approx 34.996 N, 139.856 E; Haraoka pier approx 35.045 N, 139.833 E; Fuji bears ~290 deg, WNW)
+- Haraoka (Okamoto) pier in Minamiboso is the standout foreground: a wooden pier with Fuji in the sunset; winter air makes Fuji easier to see. — [minamiboso-base.jp](https://minamiboso-base.jp/column/detail/20260123214010/); [select333.com Boso sunset map](https://select333.com/chiba-sunset/)
+- Katsuyama beach (Kyonan) gives Fuji behind the Ukishima islet at sunset. — [select333.com](https://select333.com/chiba-sunset/)
+- Hojo beach is 12 min on foot from JR Tateyama station (or ~15 min by car from Tomiura IC). — [Chiba Kogyo Bank event listing](https://www.chibakogyo-bank.co.jp/chibatoku/events/10613060/)
+- Nokogiriyama 鋸山 (Jigoku-nozoki viewpoint; ~103 km) also has a Fuji view listed in the Kanto 100 Fuji views, but is a mainstream day-trip: weekend ropeway waits of 10-30 min (30-60 min in peak season) and up to 90 min queue for Jigoku-nozoki are reported. Treat as "known, not hidden". — [jimoharu.net ropeway guide](https://jimoharu.net/nokogiri-ropeway-guide-2026/); [jimoharu.net crowding](https://jimoharu.net/nokogiriyama-ropeway-konzatsu-doyoubi-2026/)
+
+**Spot 9 — Kisarazu: Nakanoshima Ohashi 中の島大橋 and the tidal flats, Chiba** — ~107 km E of Fuji (my calc; approx 35.380 N, 139.908 E; Fuji bears ~269 deg, due west)
+- Nakanoshima Ohashi is billed as Japan's highest pedestrian bridge (27 m); photographers shoot the sunset Fuji from and around it. — [jimoharu.net](https://jimoharu.net/nakanoshima-ohashi-2026/); [photo-filedworks.com](https://www.photo-filedworks.com/nakanoshima-oohashi)
+- Diamond Fuji here falls on about 20 March and 23 September (the equinoxes). — [photo-filedworks.com](https://www.photo-filedworks.com/nakanoshima-oohashi); [Kisarazu Odekake Navi](https://k-odekake.jp/kisarazu_fuji/)
+- SEE Q4: the bridge is closed for works every winter, including right now.
+
+**Spot 10 — Urban angle: Tama River at Futako-Tamagawa 二子玉川 (Setagaya, Tokyo)** — ~86 km ENE of Fuji (my calc; approx 35.612 N, 139.627 E; Fuji bears ~251 deg, WSW)
+- Diamond Fuji is observed from the Tama riverbank in the Futako-Tamagawa area around 11-14 February and again around 30 Oct-early Nov (records: 11 Feb at Futako-bashi park; 14 Feb at the Noge riverbank; a 2025 record from Tamagawa Takashimaya predicted 30 Oct 2025 at 16:34:45). — [Futakotamagawa Keizai Shimbun (old article)](https://nikotama.keizai.biz/headline/945/); [fuji-works.com 2025 record](http://fuji-works.com/daiyaphoto-2025/20250211-futakotamagawa-takashimaya.html); [yopiko blog](https://blog.goo.ne.jp/yopiko-ko88si/e/0bf766d67b01f0de0f5950275736ab59)
+- "Fujimizaka" slopes are mostly a dead end for photography: Nippori Fujimizaka (Arakawa-ku) lost its Fuji view to an apartment block in 2013; only a very few slopes (e.g. the one in Meguro) still show Fuji on clear winter mornings/evenings between buildings. Tokyo-Fujimizaka in Meguro reportedly gets Diamond Fuji on 11-12 Feb and 30-31 Oct. — [tabi-labo](https://tabi-labo.com/298608/tokyo-fijimi-saka); [travel.co.jp Meguro Fujimizaka](https://www.travel.co.jp/guide/article/31446/); [tokyo-trip.org](https://tokyo-trip.org/newstopics/tokyo-diamondfiji/)
+- Seijo Fujimi-bashi (Setagaya) gets Diamond Fuji twice a year (around Feb and Nov); standing room is limited and people stake out places in advance — i.e. not uncrowded on those days. — [tokyo-trip.org](https://tokyo-trip.org/newstopics/tokyo-diamondfiji/)
+- Yokohama Daikoku: the Bay Bridge Skywalk reopened (renewed) on 25 June 2022, free entry, but a Feb 2026 photographer's note says it is open only on Saturdays/Sundays — when Diamond Fuji fell on a Monday he had to shoot from Daikoku Ohashi bridge instead. — [Yokohama official visitors' guide](https://www.welcome.city.yokohama.jp/blog/detail.php?blog_id=188); [note.com trpe, Feb 2026](https://note.com/trpe/n/n99c3f2beac45)
+
+**Secondary / shortlist (only thinly verified)**
+- Kiyosato Utsukushi-mori 美し森 (1,542 m; ~69 km NNW of Fuji by my calc): free car park and visitor centre at the foot, 15-20 min walk to the deck; Yatsugatake, Southern Alps and Fuji in one sweep; in summer Fuji can poke above cloud from here when the foot of the mountain is socked in. One report mentions the deck having been closed at some point — check. — [jalan](https://www.jalan.net/kankou/spt_guide000000171184/); [healing-japan.tv](http://www.healing-japan.tv/spot-1598.html); [burariwalking blog, Dec 2025](https://burariwalking.hatenablog.com/entry/2025/12/11/%E3%80%90%E7%BE%8E%E3%81%97%E6%A3%AE_%E5%B1%95%E6%9C%9B%E5%8F%B0%E3%80%91%E5%85%AB%E3%83%B6%E5%B2%B3%E3%82%82%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%82%82%E6%9C%9B%E3%82%81%E3%82%8B%E7%B5%B6%E6%99%AF)
+- Shosenkyo Ropeway / Panorama-dai (Mt. Rakanji 羅漢寺山; ~46 km): summit station has Fuji and Southern Alps views and a path to Yasaburo-dake. Ropeway round trip 1,500 yen adult (older listings say 1,200); first car 09:00; last up 17:10 / down 17:30 (1 Apr-30 Nov), last up 16:10 / down 16:30 (1 Dec-31 Mar). Because of the 09:00 start it cannot give sunrise light. — [rurubu](https://rurubu.jp/andmore/spot/80017733); [kaibutsu-blog 2026](https://kaibutsu-blog.com/shosenkyo-autumn-leaves-2026/)
+- Kushigata-yama 櫛形山 via Ike-no-chaya forest road (~41 km): paved road to nearly 1,900 m with Fuji and Southern Alps views en route; see Q2 for closure. — [Yahoo News expert article](https://news.yahoo.co.jp/expert/articles/b1a807625e598dc5c96be1cb54c5ba673777725a); [tozanguchinavi](https://tozanguchinavi.com/trailhead/trailhead-2738)
+
+### Inferences
+- Composition/light by direction (derived from my bearings, not sourced): spots NORTH/NW of Fuji (Takabotchi, Amariyama, Hottarakashi, Daibosatsu, Kumotori) look south, so Fuji is side-lit at both sunrise (left/east flank glowing) and sunset; dawn is preferred because that is when the basin fills with cloud/fog. Spots WEST (Shichimen, Minobu) look due east: Fuji is a backlit silhouette at sunrise — hence the Diamond Fuji. Spots EAST across Tokyo Bay (Futtsu, Kisarazu, Boso, Tama River) look west: Fuji is front-lit pink at sunrise in winter and a silhouette against the afterglow at sunset — sunset silhouette is the classic.
+- Focal length estimates (full-frame): Takabotchi 50-90 mm wide scene (sourced), 200-400 mm for Fuji alone above the cloud; Amariyama / Hottarakashi / Daibosatsu / Kumotori 70-200 mm; Shichimen/Minobu 100-200 mm for Diamond Fuji (Fuji is large at 30-34 km); Tokyo Bay spots at ~100 km 200-400 mm to make Fuji dominate over ships/piers; Tama River 200-300 mm to compress the Den-en-toshi line bridge with Fuji. (All estimates except Takabotchi.)
+- "Hidden" ranking for a foreign visitor (my judgement from the crowding evidence above): most hidden = Shichimen-san, Amariyama, Kumotori, Kyonan/Haraoka; medium = Futtsu, Kisarazu, Daibosatsu, Minobu; known-but-not-on-the-tourist-circuit = Takabotchi, Hottarakashi, Nokogiriyama.
+- Drop/de-emphasise from the candidate list: Tokyo Fujimizaka slopes (views largely destroyed), Shinkansen angles (the classic Fujikawa bridge shot is ~25-30 km from Fuji and is a standard, well-known railway-photo spot — outside this brief; not researched further), Yanagisawa-toge (not researched; no sources found in time).
+
+### Gaps
+- No source consulted gives exact GPS coordinates or exact distances; all are my approximations.
+- Focal lengths other than Takabotchi are unsourced estimates.
+- Could not verify Yanagisawa-toge, Osanbashi pier, or Shinkansen angles — no usable sources retrieved.
+- Egawa Kaigan (江川海岸) "sea utility poles": I believe the Egawa poles were removed around 2019-2020 and that similar poles remain at neighbouring Kuzuma Kaigan (久津間海岸), but I found NO source for this in this session — verify before recommending. The downloaded Commons photos of the poles date from the Panoramio era (pre-2017).
+
+---
+
+## Q2. Exact access: road closure periods, parking, hike times, fees, opening hours
+
+### Takeaway
+The two best "sea of clouds" spots (Takabotchi, Amariyama) are car-only and both shut from late November to late April — i.e. they are closed for exactly the months when long-distance visibility is best; the 2026/27 Takabotchi closure date could not be confirmed but was 25 Nov last year. The Chiba and Tokyo spots are open all winter and reachable by train.
+
+### Cited Findings
+
+**Takabotchi**
+- Last season: city road Takabotchi-sen (市道高ボッチ線) closed for winter from Tue 25 Nov 2025 "due to road-surface freezing"; reopened Wed 22 Apr 2026 at 10:00, both the Higashiyama (東山) and Gake-no-yu (崖の湯) routes. — [Shiojiri tourism association notice 2025](https://tokimeguri.jp/news/citytakabocchi2025close/); [Shiojiri City official reopening notice](https://www.city.shiojiri.lg.jp/soshiki/32/63096.html); [Shimin Times, Apr 2026](https://www.shimintimes.co.jp/news/2026/04/post-10737/)
+- The season before, both routes closed from 2 Dec 2024. — [Shiojiri tourism association notice](https://tokimeguri.jp/news/%E9%AB%98%E3%83%9C%E3%83%83%E3%83%81%E9%AB%98%E5%8E%9F%E3%81%AB%E8%87%B3%E3%82%8B%E5%B8%82%E9%81%93%E3%80%8C%E9%AB%98%E3%83%9C%E3%83%83%E3%83%81%E7%B7%9A%E3%80%8D%E5%86%AC%E6%9C%9F%E9%96%89%E9%8E%96-3/)
+- 2026/27: the tourism association's news list shows an item titled "Winter closure of city roads Takabotchi-sen and Gonbee-toge old national road" dated about 12-13 Nov 2026, but the date in it was not retrievable. The sister road in that same notice (Gonbee-toge old national road) closes Tue 24 Nov 2026 until late April 2027. — [tokimeguri.jp news list](https://tokimeguri.jp/news/); [Shiojiri City, Gonbee-toge closure](https://www.city.shiojiri.lg.jp/soshiki/32/26925.html); [Minamiminowa village](https://www.vill.minamiminowa.lg.jp/soshiki/kankoushinrin/8gonbeheisa.html)
+- Older generic guidance says "usually closes mid-December" / "early December to late April" — out of date versus the last two seasons (25 Nov, 2 Dec). — [tokimeguri.jp guide](https://tokimeguri.jp/guide/takabottiunkai/); [GLTJP](https://www.gltjp.com/en/directory/item/19084/)
+- Winter access on foot: conflicting. A hiking blog describes walking up Takabotchi-yama in the closed season for the Suwa/Fuji view ("the season when the road is closed, climb on foot"). But Shiojiri City's construction section posted that during the closure "passage via the surrounding forest roads is also not possible", a local inn says walking up is not recommended (bears, unmaintained off-season road), and another guide says going on foot requires real snow-mountain knowledge, equipment and experience. — [withmountain.com](https://withmountain.com/takabocchiyama-hike/); [Shiojiri construction section on X](https://x.com/shiojirikensetu/status/1894240317370765656); [akanejyuku.com](https://akanejyuku.com/information/5524)
+- A NAVITIME listing mentions a Jan 2022 landslide closing the Higashiyama route from Route 20 (likely outdated), and the tourism site lists a short traffic closure on 9-10 Sept 2026 — the road is prone to ad-hoc closures. — [NAVITIME](https://japantravel.navitime.com/en/area/jp/spot/02301-4200020/); [tokimeguri.jp news](https://tokimeguri.jp/newscat/cat01/)
+- No fees found; parking free (no source states a charge). No public transport. — [GLTJP](https://www.gltjp.com/en/directory/item/19084/)
+
+**Amariyama**
+- Prefectural road 613 Amariyama Koen-sen is closed every winter, roughly end of November to end of April. Last season: 28 Nov 2025 15:00 to 24 Apr 2026 15:00 (reopening on 24 Apr 2026 confirmed). Closure can be extended for rockfall/snow. Vehicles of microbus size (7 m) and over are restricted. — [Nirasaki tourism association traffic notice](https://www.nirasaki-kankou.jp/notice/8566.html); [tozanguchinavi 2026 list](https://tozanguchinavi.com/blog/regulation_of_traffic/36179); [Yamanashi tourism spot page](https://www.yamanashi-kankou.jp/kankou/spot/p1_4498.html)
+- One listing also mentions a bridge-works closure "until about July 2026" on a related road — unclear which section; see Q4. — [tozanguchinavi 2025 list](https://tozanguchinavi.com/blog/regulation_of_traffic/32972)
+- Car park to summit ~30 min on foot; Nirasaki IC ~60 min. — [Yamanashi tourism](https://www.yamanashi-kankou.jp/special/21meizan/amariyama.html)
+
+**Hottarakashi Onsen / Fruit Park**
+- Opens one hour before sunrise, closes 22:00, last entry 21:30; adults 900 yen, children 400 yen, charged per bath (two separate baths, "Kotchi-no-yu" and "Atchi-no-yu"), cash only; older listings show 800 yen. Coin lockers ~100 yen; small towel 200 yen; tattoos allowed. Phone 0553-23-1526. — [fujiyamasan.com (2026)](https://fujiyamasan.com/hottarakashi/); [Tokyo Cheapo](https://tokyocheapo.com/place/hottarakashi-onsen/); [tattoofriendlyjp](https://tattoofriendlyjp.com/item/hottarakashi-onsen/); [yakei.jp (old 800 yen figure)](https://yakei.jp/spa/hottarakashi/)
+- Fruit Park: outdoor areas open 24 h, free; night-view watching possible all night, even from the car; free parking at the park entrance and beyond the Fruit Park Fujiya Hotel (capacity figures vary by source: 60 to 500); lower car park No. 1 is handiest for the night view. — [traveltowns.jp](https://www.traveltowns.jp/spots/yamanashi-fuefukigawa-fruits-park/); [yakei.jp](https://yakei.jp/japan/spot.php?i=fruit); [fujiyamasan.com Fruit Park guide](https://fujiyamasan.com/fuefukigawa-fruit-park/)
+
+**Shichimen-san / Minobu-san**
+- Shichimen: bus from JR Minobu station (~50 min, ~600 yen in older sources; few departures — miss the morning bus and the next is after noon) to Shichimen-zan tozanguchi (Kakuse 角瀬), then taxi or ~40 min walk to the Hagoromo trailhead; free parking at Hagoromo (reports range from ~10 spaces to several dozen across lots), toilet at the trailhead. — [culmina.jp](https://culmina.jp/chubu/yamanashi/shichimensan); [tozanguchinavi](https://tozanguchinavi.com/trailhead/trailhead-8018); [Yamareco](https://www.yamareco.com/modules/yamareco/detail-278488.html)
+- Climb Hagoromo to Keishin-in: sources give 3-4 h (average), 3.5-5 h, or 4-5 h one way; climbing season guideline early April to early November; crampons etc. needed in snow season. — [travel.co.jp](https://www.travel.co.jp/guide/article/5444/); [nhk.shigeyuki.net](https://nhk.shigeyuki.net/?p=41010)
+- Because sunrise is the target, an overnight stay at the Keishin-in temple lodging is the normal plan: 6,500 yen per person with two (vegetarian) meals, including the worship/"gokaicho" fee; phone reservation required (0556-45-2551); attendance at the services is expected; no soap/shampoo in the bath. — [shukuken.com](https://shukuken.com/keishinin); [Hayakawa tourism](https://hayakawakankou.jp/archives/spot/%E4%B8%83%E9%9D%A2%E5%B1%B1%E6%95%AC%E6%85%8E%E9%99%A2/); [kojitusanso report](https://www.kojitusanso.jp/mountain-reserch/detail/?fm=31045)
+- Minobu-san Ropeway: 7 min from Kuonji station to the summit; round trip adult 1,600 yen / child 800 yen, one way 960 yen per rurubu, which also flags a fare revision "planned from April 2026" (so the current fare may be higher — unverified); regular hours first car 09:00, last up 16:00 / last down 16:40 (16 Mar-15 Nov), last up 15:40 (16 Nov-15 Mar). Operator phone 0556-62-1081. — [rurubu](https://rurubu.jp/andmore/spot/80018300); [Minobusan Ropeway official coupon page](https://www.minobusanropeway.co.jp/fee/coupon.php)
+
+**Daibosatsu**
+- The road to Kamihikawa-toge (上日川峠, the high trailhead) is closed in winter: Koshu City's guideline is from mid-December on the Enzan side and from early January on the Yamato side, both until mid-April; one 2026 guide lists prefectural road 218 as closed from 5 Jan 17:00 to 17 April. — [yama-nikki.jp 2026 guide](https://www.yama-nikki.jp/posts/daibosatsune/); [natureguide-hiruma](https://natureguide-hiruma.com/nature-guide/daibosatsurei-kamihikawa-loop/)
+- When the road is shut you start from the Marukawa-toge junction car park lower down, adding about 2 hours of walking. — [YAMAP winter report](https://yamap.com/activities/15804812); [Yama-to-Keikoku record, 1 Jan 2026](https://www.yamakei-online.com/cl_record/detail.php?id=327951)
+
+**Kumotori** — see Q1 (4-5+ h up from Kamozawa; overnight at Kumotori Sanso, open in winter but rooms unheated). — [YAMAP report](https://yamap.com/activities/45483401/article)
+
+**Futtsu Cape**
+- Futtsu Park parking is free: 539 cars + 21 large vehicles + 12 accessible spaces in total. Use car park No. 3 (100 cars) next to the tower; car park No. 1 is 2 km from the tower. — [jimoharu.net park guide](https://jimoharu.net/futtsu-koen-misaki-guide-2026/); [burariwalking blog, Oct 2025](https://burariwalking.hatenablog.com/entry/2025/10/09/%E3%80%90%E6%98%8E%E6%B2%BB%E7%99%BE%E5%B9%B4%E8%A8%98%E5%BF%B5%E5%B1%95%E6%9C%9B%E5%A1%94%EF%BC%88%E5%AF%8C%E6%B4%A5%E5%B2%AC%E5%B1%95%E6%9C%9B%E5%8F%B0%EF%BC%89%E3%80%91%E6%9D%B1%E4%BA%AC)
+
+**Nokogiriyama**
+- Ropeway 09:00-17:00 (16 Feb-15 Nov), 09:00-16:00 (16 Nov-15 Feb), no fixed closing days, suspended in bad weather; adult 650 yen one way / 1,200 yen return. Nihon-ji temple admission 700 yen adult / 400 yen child (as of Aug 2023 per one source; another older source says 600 yen and 08:00-17:00). — [Chiba official tourism (maruchiba)](https://maruchiba.jp/spot/detail_10330.html); [maruchiba Nihon-ji](https://maruchiba.jp/spot/detail_10364.html); [jimoharu.net](https://jimoharu.net/nokogiri-ropeway-guide-2026/)
+- Consequence: in winter the last ropeway (16:00) leaves before sunset, so a sunset Fuji from the top means walking down. (My inference from the hours.)
+
+**Kisarazu Nakanoshima Ohashi** — parking ~100 cars at Toriizaki seaside park per one guide (figures differ between documents). — [jimoharu.net](https://jimoharu.net/nakanoshima-ohashi-2026/)
+
+**Kushigata-yama (Ike-no-chaya forest road)** — prefectural forest roads toward Kushigata closed 10 Dec 2025 to late April 2026 last season; generic guidance says end Nov/early Dec to mid-May. Maruyama forest road reported closed year-round (older article). — [Minami-Alps City](https://www.city.minami-alps.yamanashi.jp/docs/17982.html); [Minami-Alps tourism association](https://minami-alpskankou.jp/?p=18571); [tozanguchinavi](https://tozanguchinavi.com/trailhead/trailhead-2738)
+
+### Inferences
+- For a trip in the coming weeks (late Nov 2026 onward), Takabotchi and Amariyama are effectively out until late April 2027; winter-accessible alternatives with the same "Fuji over a basin" idea are Fruit Park/Hottarakashi (open all year) and the Chiba coast.
+- Takabotchi's closure has started earlier in each of the last two seasons than guidebooks say; plan on "closed from about 24-25 November".
+
+### Gaps
+- Exact 2026/27 closure date of Takabotchi-sen: NOT confirmed (notice exists, content not retrievable). Likely announced on tokimeguri.jp/news and the Shiojiri City site.
+- Exact 2026/27 Amariyama closure start: not found (last year 28 Nov 15:00).
+- Whether pedestrians are legally barred from the closed Takabotchi road (vs. vehicles only): unresolved, sources conflict.
+- Car park opening rules at night for Amariyama; whether Keishin-in accepts overnight guests in mid-winter: not found.
+- Current (post-April-2026) Minobu ropeway fare and whether the Diamond Fuji early-running events were held in 2024-2026: not found; latest confirmed editions are 2023.
+- Bus timetable/fare JR Minobu to Shichimen trailhead for 2026: only older figures.
+
+---
+
+## Q3. Best months and time of day; when is Fuji statistically most visible from a distance?
+
+### Takeaway
+From Tokyo (about 95 km) Fuji is visible on roughly 18-19 days in January but only 1-2 days in June-August, and annual visibility has risen to 115-135 days in recent years; long-distance Fuji photography is a November-February, early-morning game. Each spot then has its own peak: sea of clouds in Oct-Nov (Takabotchi), azaleas in early-mid June (Amariyama), equinox Diamond Fuji (Shichimen, Minobu, Kisarazu), and mid-May / late-July Diamond Fuji in Tateyama.
+
+### Cited Findings
+- Tokyo Metropolitan Government records whether Fuji is visible every day at 09:00 from the 31st floor of the Metropolitan Government No. 2 building (169 m above sea level; automatic camera), since FY2003. — [Tokyo Bureau of Environment](https://www.taiki.kankyo.metro.tokyo.lg.jp/taikikankyo/fuji/fuji_nisu.html); [fujisan-net.jp](https://www.fujisan-net.jp/post_detail/2001089)
+- Monthly averages: January is the peak with 18.3 days (21-year average to FY2012) or 19.1 days (another averaging period); the minimum is June with 1.1 days, or August with 1.7 days. — [fujisan-net.jp](https://www.fujisan-net.jp/post_detail/2001089); [Yahoo News expert (Morita)](https://news.yahoo.co.jp/expert/articles/b251d2d751e046f06063f70203752c2c25a819fc)
+- FY2024 monthly counts from the same record: December 28 days, January 18, February 21, March 8; annual total 115 days. — [Tokyo Bureau of Environment](https://www.taiki.kankyo.metro.tokyo.lg.jp/taikikankyo/fuji/fuji_nisu.html)
+- Long-term trend: average 40.7 days/year in 1971-1991, 95.2 days/year since FY1992, 115-135 days in FY2023-2024 — attributed to cleaner air. — [Yahoo News expert (Morita)](https://news.yahoo.co.jp/expert/articles/b251d2d751e046f06063f70203752c2c25a819fc)
+- For comparison at close range: Fuji City (about 20 km) recorded the whole mountain visible at 08:00 on 136 days in 2025, with 19 days in January and 22 in February. — [Fuji City observation record](https://www.city.fuji.shizuoka.jp/1005330000/miryoku/p007566.html)
+- Takabotchi: sea-of-clouds season is autumn, roughly mid-October until the road closes, at dawn; one guide lists Jan, Jun, Oct, Nov, Dec as best months (Jan/Dec are not reachable by car). Altitude makes it about 8 deg C colder than the valley. — [unkai/stargazing guide 2026](https://xn--29sob207cg49a.com/calendar/takabocchi-unkai-stargazing-2026/); [GLTJP](https://www.gltjp.com/en/directory/item/19084/); [note.com peporante](https://note.com/peporante114/n/n8074768289a5)
+- Amariyama: azaleas early to mid June (2026: full bloom 1 June, over after 14 June). — [Yamanashi tourism](https://www.yamanashi-kankou.jp/nirasaki/event/amariyama-rengetsutsuji.html); [YAMAP](https://yamap.com/activities/48828530/article)
+- Shichimen-san Diamond Fuji: 20/21 March and 22/23 September at sunrise (05:55 on the 2021 autumn equinox). Minobu-san: mid-March (12-14 Mar 2023, ~06:25) and around 1 October (30 Sep-2 Oct 2023, ~06:05). — [MLIT text](https://www.mlit.go.jp/tagengo-db/common/001557413.pdf); [Travel Watch](https://travel.watch.impress.co.jp/docs/news/1477820.html)
+- Tateyama Diamond Fuji (sunset) 2026: official listing 11-14 May and 28-31 July at Hojo beach (MLIT lists 13-14 May and 29-30 July); through May the alignment point moves south day by day, from Nako beach (10 May) to Aihama at the city's southern tip (31 May); the viewing point changes daily. — [Chiba official tourism](https://maruchiba.jp/event/detail_12110.html); [MLIT Kanto](https://www.ktr.mlit.go.jp/chiiki/chiiki00000111.html); [chiba-style.com 2026](https://chiba-style.com/event/8122/)
+- Minamiboso Diamond Fuji: Haraoka beach early May and early August; Taibusa cape 8 May and 4-5 August; Iwai beach end of April and mid-August. — [Minamiboso tourism association](https://www.cm-boso.com/diamond_fuji.html)
+- Futtsu: within Futtsu City the sunset alignment point moves south with the season (Shin-Maiko, Minato, Takeoka, Kanaya); at Futtsu Cape Diamond Fuji is given as "late March and late August" by one source and "spring and autumn" by another; a photographers' calendar lists a setting Diamond Fuji for "Futtsu Cape to Kisarazu-Kaneda IC" at about 17:16 on 29 Sept 2026. — [Futtsu City](https://www.city.futtsu.lg.jp/0000000664.html); [chibatabinabi.jp](https://chibatabinabi.jp/?p=2345); [fujisantotomoni.jp calendar](https://fujisantotomoni.jp/calendar/20260929)
+- Kisarazu Nakanoshima Ohashi: Diamond Fuji about 20 March and 23 September. — [photo-filedworks.com](https://www.photo-filedworks.com/nakanoshima-oohashi)
+- Tama River / Futako-Tamagawa: Diamond Fuji about 11-14 February and 30 Oct-early Nov; Tokyo as a whole gets sunset Diamond Fuji from November to February at various points. — [tokyo-trip.org](https://tokyo-trip.org/newstopics/tokyo-diamondfiji/); [nikotama.keizai.biz](https://nikotama.keizai.biz/headline/945/)
+- Summer note: near the foot of Fuji clouds form easily in summer, yet from far away (Kiyosato) Fuji can appear above the cloud deck. — [healing-japan.tv](http://www.healing-japan.tv/spot-1598.html)
+- A day-by-day Diamond/Pearl Fuji planning calendar exists for exact dates and times per location. — [fujisantotomoni.jp](https://fujisantotomoni.jp/calendar/)
+
+### Inferences
+- The Tokyo statistic is taken at 09:00; visibility from ~100 km normally degrades through the day in the warmer months, so the 09:00 figures are an upper bound for afternoon/sunset shooting except in winter. Dawn-to-9 am is the safest window; for the Chiba sunset silhouettes, December-February offers the best odds.
+- The FY2024 December figure (28 of 31 days) shows how reliable early winter is from ~95 km; the Chiba spots at ~100-110 km should be similar or slightly worse (over-water haze) — inference, no Chiba-specific statistic found.
+- Practical calendar for the Dutch guide: Oct-late Nov Takabotchi (sea of clouds, before closure); Dec-Feb Chiba coast + Tama River + Fruit Park night view; ~20 Mar Shichimen/Kisarazu Diamond Fuji; early-mid June Amariyama azaleas; mid-May and late July Tateyama Diamond Fuji; ~22 Sep Shichimen again.
+
+### Gaps
+- No visibility statistics found for Nagano (Takabotchi, 106 km) or Chiba specifically; the Seikei meteorological observatory series was not found.
+- The full month-by-month Tokyo table could not be read (page fetch blocked); only the cited months are confirmed.
+- 2027 Diamond Fuji dates/times per spot are not yet verified — use the fujisantotomoni.jp calendar or Tateyama's annual "position and time" sheet.
+
+---
+
+## Q4. Recent changes 2024-2026: restrictions, closures
+
+### Takeaway
+The most actionable changes: Kisarazu's Nakanoshima Ohashi is shut every winter for works (about Oct 2026-Feb 2027 this season); Takabotchi now closes in late November rather than mid-December and bans roadside parking at Fureai Hiroba; Hottarakashi costs 900 yen and bans all photography; Yokohama's Bay Bridge Skywalk is weekend-only.
+
+### Cited Findings
+- Kisarazu Nakanoshima Ohashi: closed 1 Nov 2024-28 Feb 2025; last winter 27 Oct-21 Feb; Kisarazu City plans another closure from about October 2026 to about February 2027 (start date not announced as of 10 Oct 2026). Ota-yama park's Kimisarazu Tower is unaffected and also has a Fuji view. — [goguynet Kisarazu, Nov 2024](https://kisarazu-kimitsu-futtsu-sodegaura.goguynet.jp/2024/11/05/nakanoshima-oohashi/); [jimoharu.net closure plan](https://jimoharu.net/kisarazu-nakanoshima-ohashi-closure-plan-oct2026-feb2027/); [Kisarazu Odekake Navi](https://k-odekake.jp/kisarazu_fuji/)
+- Takabotchi: closure start moved earlier (2 Dec 2024; 25 Nov 2025) compared with the "mid-December" in older guides; city explicitly states surrounding forest roads cannot be used to bypass the closure (post of Feb 2025); roadside parking at Fureai Hiroba now prohibited; a short closure occurred 9-10 Sept 2026. — [tokimeguri 2025 notice](https://tokimeguri.jp/news/citytakabocchi2025close/); [Shiojiri construction section on X](https://x.com/shiojirikensetu/status/1894240317370765656); [fukeimeguri.com](https://www.fukeimeguri.com/blog/takabotchi-mt-fuji); [tokimeguri news](https://tokimeguri.jp/newscat/cat01/)
+- Amariyama: winter closure 28 Nov 2025-24 Apr 2026; a listing mentions bridge works with a closure "until about July 2026" (section unclear); 2026 YAMAP reports from 1 and 14 June 2026 show hikers reached the summit area in azalea season, so access existed then. — [tozanguchinavi 2025](https://tozanguchinavi.com/blog/regulation_of_traffic/32972); [Nirasaki tourism](https://www.nirasaki-kankou.jp/notice/8566.html); [YAMAP](https://yamap.com/activities/48828530/article)
+- Hottarakashi Onsen: price now 900 yen (was 800), cash only; photography prohibited throughout the facility. — [fujiyamasan.com](https://fujiyamasan.com/hottarakashi/); [yakei.jp (old price)](https://yakei.jp/spa/hottarakashi/)
+- Minobu-san Ropeway: fare revision announced for April 2026 (new fare not confirmed here). — [rurubu](https://rurubu.jp/andmore/spot/80018300)
+- Shosenkyo Ropeway: round trip now 1,500 yen (older listings 1,200). — [kaibutsu-blog 2026](https://kaibutsu-blog.com/shosenkyo-autumn-leaves-2026/)
+- Yokohama Bay Bridge Skywalk: reopened June 2022; as of Feb 2026 a photographer reports it is open weekends only. — [Yokohama official](https://www.welcome.city.yokohama.jp/blog/detail.php?blog_id=188); [note.com trpe](https://note.com/trpe/n/n99c3f2beac45)
+- Nippori Fujimizaka: view lost since 2013 (not recent, but many English guides still list it). — [tabi-labo](https://tabi-labo.com/298608/tokyo-fijimi-saka)
+- General mountain etiquette noted in 2026 hiking guidance for Kumotori: avoid tripods/monopods/selfie sticks on the summit, narrow trail sections and passing points; bear, ice and hypothermia warnings. — [minnacamera.com spot page](https://www.minnacamera.com/spots/1434)
+
+### Inferences
+- A visitor in winter 2026/27 wanting the Kisarazu shot should use the shoreline/Toriizaki park or Kimisarazu Tower instead of the bridge deck, and aim for the 20 March 2027 Diamond Fuji only if the works end on schedule (unconfirmed).
+
+### Gaps
+- Start date of the 2026/27 Nakanoshima Ohashi closure and whether it is in force today: not confirmed.
+- No information found on any new tourist-management measures (fees, barriers) at these long-distance spots comparable to those at Kawaguchiko/Lawson; none appear to exist, but absence of evidence only.
+- Status of the Utsukushi-mori observation deck (one report of a past closure) not verified.
+
+---
+
+## Photos (Wikimedia Commons, freely licensed) — saved in `photos/`
+
+All were downloaded as 1280 px-wide Commons thumbnails (Commons no longer serves arbitrary 1600 px thumbnails; 1280 px is the nearest standard size) and visually checked. File-page URL pattern: `https://commons.wikimedia.org/wiki/File:<title>`.
+
+PHOTO_TABLE_PLACEHOLDER
